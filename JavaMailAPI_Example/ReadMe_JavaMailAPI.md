@@ -1,4 +1,4 @@
-# JAVA MAIL API JSP PROJECT EXAMPLE
+# JAVA MAIL API - JSP PROJECT EXAMPLE
 
 In this project, the user can enter receiver's email ID, subject, body of email and then send the email using Java Mail API.
 
