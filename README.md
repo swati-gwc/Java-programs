@@ -10,5 +10,5 @@ In this repository there are several small project codes written in Java Languag
 
 | Project Name  | Project ReadMe/Details   | Project Output  |   View Folder  | Description |
 |:---:|:---:|:---:|:---:|:---:|
-| Java Mail API   | [Read My Details](JavaMailAPI_Example/ReadMe_JavaMailAPI.md)  | [Output](JavaMailAPI_Example/ImageJavaMailAPI/)  | [View My Code](JavaMailAPI_Example/JavaMailAPI2) | It sends email to entered email id using Java Mail API |
-| Spring Web MVC Login Form   | [Read My Details](/SpringMVCFormExample/ReadMeSpringMVCForm.md)  | [Output](/SpringMVCFormExample/ImagesSpringMVCFormExample/)  | [View My Code](/SpringMVCFormExample/Spring6) | It is a login form made using Spring 4.0.1 Framework|
+| Java Mail API   | [Read My Details](JavaMailAPI_Example/)  | [Output](JavaMailAPI_Example/ImageJavaMailAPI/)  | [View My Code](JavaMailAPI_Example/JavaMailAPI2) | It sends email to entered email id using Java Mail API |
+| Spring Web MVC Login Form   | [Read My Details](/SpringMVCFormExample/)  | [Output](/SpringMVCFormExample/ImagesSpringMVCFormExample/)  | [View My Code](/SpringMVCFormExample/Spring6) | It is a login form made using Spring 4.0.1 Framework|
