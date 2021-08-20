@@ -20,7 +20,7 @@ To create this project from scratch in Netbeans IDE follow the steps below:
 
 ## Project Structure of this Project, "Spring6"
 
-![Project Structure](ImagesSpringMVCFormExample/ProjectStructure.PNG)
+<!-- ![Project Structure](ImagesSpringMVCFormExample/ProjectStructure.PNG) -->
 <img src="ImagesSpringMVCFormExample/ProjectStructure.PNG" alt="pic" class="inline"/>
 
 ## Main Files of this project 
@@ -37,23 +37,23 @@ To create this project from scratch in Netbeans IDE follow the steps below:
 
 ### Form WebPage with correct details (Username and Password is swati and swati respectively, you can change it according to your choice in MyController.java)
 
-![Project Structure](/SpringMVCFormExample/ImagesSpringMVCFormExample/FormWithCorrectDetails.PNG)
+<img src="ImagesSpringMVCFormExample/FormWithCorrectDetails.PNG" alt="pic" class="inline"/>
 
 ### success.jsp page is displayed after correct details are submitted in form 
 
-![Project Structure](/SpringMVCFormExample/ImagesSpringMVCFormExample/successJSPOutput.PNG)
+<img src="ImagesSpringMVCFormExample/successJSPOutput.PNG" alt="pic" class="inline"/>
 
 ### Form WebPage with WRONG details (Username and Password except swati and swati respectively are all wrong and will display error message)
 
-![Project Structure](/SpringMVCFormExample/ImagesSpringMVCFormExample/FormWithWrongDetails.PNG)
+<img src="ImagesSpringMVCFormExample/FormWithWrongDetails.PNG" alt="pic" class="inline"/>
 
 ### Error Message Displayed after submitting wrong login form details
 
-![Project Structure](/SpringMVCFormExample/ImagesSpringMVCFormExample/FormWrongDetailsOutput.PNG)
+<img src="ImagesSpringMVCFormExample/FormWrongDetailsOutput.PNG" alt="pic" class="inline"/>
 
 ### Libraries that are added in this project
 
-![Project Structure](/SpringMVCFormExample/ImagesSpringMVCFormExample/LibrariesAdded.PNG)
+<img src="ImagesSpringMVCFormExample/LibrariesAdded.PNG" alt="pic" class="inline"/>
 
 
 
