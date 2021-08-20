@@ -23,7 +23,7 @@ If you are giving your own (gmail) email id as sender's email id then,
 - You are done now! 
 
 ## Project Structure 
-![Project Structure](/JavaMailAPI_Example/ImageJavaMailAPI/ProjectStructureJavaMailAPI.PNG)
+<img src="ImageJavaMailAPI/ProjectStructureJavaMailAPI.PNG" alt="pic" class="inline"/>
 
 ## Main Files of this project
 
@@ -37,22 +37,22 @@ If you are giving your own (gmail) email id as sender's email id then,
 
 ### First Page that appears after running this project
 
-![First Page](/JavaMailAPI_Example/ImageJavaMailAPI/indexJSP_FormPage.PNG)
+<img src="ImageJavaMailAPI/indexJSP_FormPage.PNG" alt="pic" class="inline"/>
 
 ### Sending email
 
-![Right Details](/JavaMailAPI_Example/ImageJavaMailAPI/SendEmailFromJSP.PNG)
+<img src="ImageJavaMailAPI/SendEmailFromJSP.PNG" alt="pic" class="inline"/>
 
 ### If receiver's email ID and your (own) sender's email ID and password are entered correct then this emailsent.jsp page will be shown. Make sure before using this project you have written right sender email ID and password in sendemail.java file.
 
-![Success page](/JavaMailAPI_Example/ImageJavaMailAPI/emailsentJSP_SuccessPage.PNG)
+<img src="ImageJavaMailAPI/emailsentJSP_SuccessPage.PNG" alt="pic" class="inline"/>
 
 
 ### Receiver email ID will receive email like below :
-![Inbox email received](/JavaMailAPI_Example/ImageJavaMailAPI/EmailReceived_MyInbox.PNG)
+<img src="ImageJavaMailAPI/EmailReceived_MyInbox.PNG" alt="pic" class="inline"/>
 
 ### If receiver email is NOT entered correct then this emailNotSent.jsp page will be shown.
-![Project Structure](/JavaMailAPI_Example/ImageJavaMailAPI/WrongEmailFilled.PNG)
+<img src="ImageJavaMailAPI/WrongEmailFilled.PNG" alt="pic" class="inline"/>
 
 ### Output if wrong email was entered
-![Project Structure](/JavaMailAPI_Example/ImageJavaMailAPI/emailNotSentJSP.PNG)
+<img src="ImageJavaMailAPI/emailNotSentJSP.PNG" alt="pic" class="inline"/>
