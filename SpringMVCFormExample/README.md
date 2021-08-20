@@ -21,6 +21,7 @@ To create this project from scratch in Netbeans IDE follow the steps below:
 ## Project Structure of this Project, "Spring6"
 
 ![Project Structure](/SpringMVCFormExample/ImagesSpringMVCFormExample/ProjectStructure.PNG)
+<img src="/SpringMVCFormExample/ImagesSpringMVCFormExample/ProjectStructure.PNG" alt="hi" class="inline"/>
 
 ## Main Files of this project 
 
